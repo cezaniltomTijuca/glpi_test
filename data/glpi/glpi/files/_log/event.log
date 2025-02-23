@@ -1,0 +1,10 @@
+2025-02-21 19:18:45 [@8d20e10a3d0c]
+[login] 3: Login falhou para  no IP 172.18.0.1
+2025-02-21 19:18:49 [@8d20e10a3d0c]
+[login] 3: glpi fez login no IP 172.18.0.1
+2025-02-21 19:29:42 [2@8d20e10a3d0c]
+[setup] [Plugin 3] 3: Plugin juca foi instalado por glpi (2).
+2025-02-21 19:29:47 [2@8d20e10a3d0c]
+[setup] [Plugin 4] 3: Plugin juca foi ativado por glpi (2).
+2025-02-23 22:32:12 [@8d20e10a3d0c]
+[login] 3: glpi fez login no IP 172.18.0.1

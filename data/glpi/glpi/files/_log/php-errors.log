@@ -1,0 +1,144 @@
+[2025-02-21 19:16:14] glpiphplog.WARNING: Test logger  
+[2025-02-21 19:58:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected string content "ju", expecting ")" in /var/www/html/glpi/plugins/juca/setup.php at line 101
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:00:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected string content "ju", expecting ")" in /var/www/html/glpi/plugins/juca/setup.php at line 101
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:02:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:04:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:06:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:08:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:10:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:12:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:14:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:16:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:18:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:20:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
+[2025-02-21 20:22:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: Unclosed '{' on line 95 in /var/www/html/glpi/plugins/juca/setup.php at line 103
+  Backtrace :
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Plugin.php:538                                 Plugin->checkPluginState()
+  src/Plugin.php:279                                 Plugin->checkStates()
+  inc/includes.php:98                                Plugin->init()
+  front/cron.php:44                                  include()
+  
