@@ -18,6 +18,8 @@ Então iremos acessa-lo usando o comando: cd /glpi-dev/data/glpi/glpi/plugins
 
 Agora iremos instalar as configurações do nosso plugin:
 
+Clone o repositório do EMPTY: git clone https://github.com/pluginsGLPI/empty.git
+
 Acesse a pasta do empty: cd /empty
 Agora digite o seguinte comando: chmod +x plugin.sh
 ./plugin.sh juca 0.0.1
