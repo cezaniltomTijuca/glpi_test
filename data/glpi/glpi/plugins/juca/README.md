@@ -24,6 +24,8 @@ Acesse a pasta do empty: cd /empty
 Agora digite o seguinte comando: chmod +x plugin.sh
 ./plugin.sh juca 0.0.1
 
+(Caso esteja usando o WSL no WINDOWS: Utilize o comando dos2unix plugin.sh e caso não esteja instalado, use o comando sudo apt update && sudo apt install dos2unix e após isso execute o dos2unix plugin.sh novamente, após isso, execute o comando ./plugin.sh juca 0.0.1 que irá funcionar normalmente)
+
 Estamos usando o plugin.sh script no empty diretório para criar o novo plugin. 
 No exemplo estamos passando o nome do plugin e o primeiro número da versão, onde o exemplo abaixo detalha melhor:
 
